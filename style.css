@@ -518,7 +518,22 @@
       justify-content: center;
     }
   
-    .contact-grid {
-      grid-template-columns: 1fr;
-    }
+
+    #contact {
+        padding: 4rem 1.5rem; 
+      }
+      
+      .contact-grid {
+        grid-template-columns: 1fr;
+        gap: 3rem;
+        padding: 0; 
+        width: 100%; 
+      }
+      
+      .contact-info,
+      .contact-form {
+        padding: 1.5rem;
+        width: 100%; 
+        margin: 0; 
+      }
   }
