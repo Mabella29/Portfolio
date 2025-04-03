@@ -1,4 +1,4 @@
-/* ===== GLOBAL STYLES ===== */
+
 * {
     margin: 0;
     padding: 0;
@@ -27,7 +27,6 @@
     transition: color 0.3s ease;
   }
   
-  /* ===== HEADER ===== */
   header {
     display: flex;
     justify-content: space-between;
@@ -79,7 +78,7 @@
     width: 100%;
   }
   
-  /* ===== HERO SECTION ===== */
+ 
   #hero-section {
     min-height: 100vh;
     display: flex;
@@ -133,7 +132,7 @@
     transform: scale(1.02);
   }
   
-  /* ===== BUTTONS ===== */
+  
   .btn {
     display: inline-block;
     padding: 0.8rem 1.8rem;
@@ -170,7 +169,7 @@
     flex-wrap: wrap;
   }
   
-  /* ===== ABOUT SECTION ===== */
+ 
   .about-section {
     padding: 5rem 5%;
   }
@@ -271,7 +270,7 @@
     margin-top: 1rem;
   }
   
-/* ===== PROJECTS SECTION ===== */
+
 #projects {
     padding: 6rem 0;
     background: rgba(0, 0, 0, 0.1);
