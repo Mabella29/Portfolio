@@ -78,6 +78,9 @@
     width: 100%;
   }
   
+  .menu-btn{
+    display: none;
+}
  
   #hero-section {
     min-height: 100vh;
@@ -196,6 +199,14 @@
     border-radius: 2px;
   }
   
+  #hd {
+      margin-bottom: 10px;
+  }
+
+  #pg {
+    margin-top: 15px;
+  }
+
   .about-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -496,6 +507,13 @@
   
     nav.active {
       display: flex;
+    }
+
+    .menu-btn{
+        display: block;
+        font-size: 24px;
+        cursor: pointer;
+        color: white;
     }
   
     .hero-content {
