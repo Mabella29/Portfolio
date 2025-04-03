@@ -344,28 +344,28 @@
   }
   
   .project-image1 {
-    background-image: url(/Portfolio/assets/E-com.png);
+    background-image: url('assets/E-com.png');
   }
   
   .project-image2 {
-    background-image: url(/Portfolio/assets/BC.png);
+    background-image: url('assets/BC.png');
   }
   
   .project-image3 {
-    background-image: url(/Portfolio/assets/dice.png);
+    background-image: url('assets/dice.png');
   }
   
   .project-image4 {
-    background-image: url(/Portfolio/assets/todo.png);
+    background-image: url('assets/todo.png');
   }
 
   .project-image5 {
-    background-image: url(/Portfolio/assets/cook1.png);
+    background-image: url('assets/cook1.png');
   }
   
   
   .project-image6 {
-    background-image: url(/Portfolio/assets/ai_trans.png);
+    background-image: url('assets/ai_trans.png');
   }
   
   
