@@ -11,12 +11,16 @@ The portfolio is automatically deployed on Vercel:
 
 - Modern responsive design
 - Interactive contact form
-- Downloadable resume
+- About Me Section (Personal background, skills & interests)  
+- Projects Showcase (Links & descriptions of past work)  
+- Educational Background (Includes a downloadable CV)  
+
 
 ## 🛠️ Technologies Used
 
 - HTML5 (Semantic)
 - CSS3 (Flexbox/Grid)
+- JavaScript
 - [Font Awesome](https://fontawesome.com/) Icons
 - Google Fonts
 
@@ -30,4 +34,4 @@ The portfolio is automatically deployed on Vercel:
 1. Clone the repository:
 ```bash
 https://github.com/Mabella29/Portfolio.git
-
+cd Portfolio
